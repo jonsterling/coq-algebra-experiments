@@ -1,0 +1,15 @@
+-Q theories algebra
+-arg -w -arg -notation-overridden,-redundant-canonical-projection,-several-object-files
+theories/Foundation.v
+theories/groups/AbelianGroup.v
+theories/groups/Subgroup.v
+theories/groups/GroupHom.v
+theories/rings/Ring.v
+theories/rings/Subring.v
+theories/rings/RingHom.v
+theories/rings/Ideal.v
+theories/rings/Kernel.v
+theories/rings/Quotient.v
+theories/Category.v
+theories/Functor.v
+theories/NaturalTransformation.v
